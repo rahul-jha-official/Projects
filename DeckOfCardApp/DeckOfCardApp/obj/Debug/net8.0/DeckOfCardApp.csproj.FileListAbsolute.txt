@@ -1,0 +1,15 @@
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\bin\Debug\net8.0\DeckOfCardApp.exe
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\bin\Debug\net8.0\DeckOfCardApp.deps.json
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\bin\Debug\net8.0\DeckOfCardApp.runtimeconfig.json
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\bin\Debug\net8.0\DeckOfCardApp.dll
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\bin\Debug\net8.0\DeckOfCardApp.pdb
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.AssemblyInfoInputs.cache
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.AssemblyInfo.cs
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.csproj.CoreCompileInputs.cache
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.sourcelink.json
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.dll
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\refint\DeckOfCardApp.dll
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.pdb
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\DeckOfCardApp.genruntimeconfig.cache
+D:\Projects\Git\Projects\DeckOfCardApp\DeckOfCardApp\obj\Debug\net8.0\ref\DeckOfCardApp.dll
