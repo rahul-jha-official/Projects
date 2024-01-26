@@ -33,21 +33,31 @@ namespace DeckOfCardApp.App
         }
         public void Play(bool shuffleCard)
         {
+
             if (shuffleCard)
             {
                 Shuffle();
             }
 
             _userInteractor.PrintMessage("Enter number of cards per Player to deal: ");
-            var cardsToDealPerPlayer = int.Parse(Console.ReadLine());
+            
+            var input = Console.ReadLine();
+            if (input == null) throw new ArgumentNullException("Invalid User Input");
+
+            var cardsToDealPerPlayer = int.Parse(input);
 
             Deal(cardsToDealPerPlayer);
 
             DisplayCardPerPlayer();
 
-            _userInteractor.PrintMessage("Want to deal again: ");
+            _userInteractor.PrintMessage("Want to deal again [Y/N]: ");
 
-            var dealAgain = bool.Parse(Console.ReadLine());
+
+            input = Console.ReadLine();
+            if (input == null) throw new ArgumentNullException("Invalid User Input");
+            if (!"Y,y,N,n".Split(',').Contains(input)) throw new ArgumentException("Invalid User Input");
+
+            var dealAgain = string.Equals(input, "Y", StringComparison.OrdinalIgnoreCase);
 
             if (dealAgain)
             {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeckOfCardApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7af045557cc86047bcb845b05528a4ddc1ccc32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01de6d5e8fe4326bc2ea88098bdd64717deb0b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeckOfCardApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeckOfCardApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
