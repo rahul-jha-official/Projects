@@ -1,0 +1,15 @@
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.AssemblyInfoInputs.cache
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.AssemblyInfo.cs
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.csproj.CoreCompileInputs.cache
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.sourcelink.json
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\bin\Debug\net8.0\OnlineSchedulerApp.exe
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\bin\Debug\net8.0\OnlineSchedulerApp.deps.json
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\bin\Debug\net8.0\OnlineSchedulerApp.runtimeconfig.json
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\bin\Debug\net8.0\OnlineSchedulerApp.dll
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\bin\Debug\net8.0\OnlineSchedulerApp.pdb
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.dll
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\refint\OnlineSchedulerApp.dll
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.pdb
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\OnlineSchedulerApp.genruntimeconfig.cache
+D:\Projects\Git\Projects\OnlineSchedulerApp\OnlineSchedulerApp\obj\Debug\net8.0\ref\OnlineSchedulerApp.dll

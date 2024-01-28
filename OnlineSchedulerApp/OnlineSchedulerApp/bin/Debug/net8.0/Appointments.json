@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "Client": {
+      "Id": 1,
+      "Name": "Ram",
+      "Email": "ram@test.com"
+    },
+    "Operator": {
+      "Id": 2,
+      "Name": "Peter"
+    },
+    "Slot": {
+      "Name": "0-1",
+      "Start": 0,
+      "End": 1
+    },
+    "Date": "2024-01-30",
+    "Status": 0
+  },
+  {
+    "Id": 2,
+    "Client": {
+      "Id": 2,
+      "Name": "Raj",
+      "Email": "raj@test.com"
+    },
+    "Operator": {
+      "Id": 2,
+      "Name": "Peter"
+    },
+    "Slot": {
+      "Name": "3-4",
+      "Start": 3,
+      "End": 4
+    },
+    "Date": "2024-01-30",
+    "Status": 0
+  },
+  {
+    "Id": 3,
+    "Client": {
+      "Id": 3,
+      "Name": "Jai",
+      "Email": "jai@test.ex"
+    },
+    "Operator": {
+      "Id": 2,
+      "Name": "Peter"
+    },
+    "Slot": {
+      "Name": "2-3",
+      "Start": 2,
+      "End": 3
+    },
+    "Date": "2024-01-30",
+    "Status": 0
+  },
+  {
+    "Id": 4,
+    "Client": {
+      "Id": 3,
+      "Name": "Jai",
+      "Email": "jai@test.ex"
+    },
+    "Operator": {
+      "Id": 2,
+      "Name": "Peter"
+    },
+    "Slot": {
+      "Name": "1-2",
+      "Start": 1,
+      "End": 2
+    },
+    "Date": "2024-01-30",
+    "Status": 0
+  }
+]
